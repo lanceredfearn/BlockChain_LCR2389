@@ -1,11 +1,11 @@
 
-#Assignment 02 - Bitcoin Script  
+# Assignment 02 - Bitcoin Script  
 
 Name : Lance Redfearn
 Email : lance.redfearn@outlook.com
 Discord : lance.redfearn
 
-###Program Inputs
+### Program Inputs
 Any two valid arguments can be added to the stack.
 
 OP_EQUAL  # Returns 1 if the two inputs are exactly the same  
